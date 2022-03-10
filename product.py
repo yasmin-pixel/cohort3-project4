@@ -331,4 +331,4 @@ def show_vis_profit (button_click):
         
  
 
-app.run_server(debug= True)
+#app.run_server(debug= True)

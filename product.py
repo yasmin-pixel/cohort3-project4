@@ -19,7 +19,7 @@ import per_hour_sales
 
 
 app =  dash.Dash('', title='Data from Retail Stores')
-
+server = app.server
 
 print('hello world')
 def product_top5():                 
